@@ -1,6 +1,6 @@
-# Cyclone II FSM LED Project
+# Cyclone II FSM LED Repository
 
-This project implements an FSM-based LED controller for the shared Cyclone II development board.
+This repository contains one FSM-based LED controller design in the shared Cyclone II FPGA Board project.
 
 ## Target board
 
@@ -46,4 +46,4 @@ The `.sof` configuration is temporary and is lost after power-off.
 - [Cyclone II LCD Nios II project](https://github.com/ntienthanh75/lcd_nios)
 - [Cyclone II adder with timing constraints](https://github.com/ntienthanh75/adders_time_constrains)
 
-This project is also used to study FSM synthesis results and the impact of paths on timing constraints.
+This repository is also used to study FSM synthesis results and the impact of paths on timing constraints.
